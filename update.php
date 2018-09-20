@@ -81,8 +81,8 @@
       <tr>
         <td></td>
       <td>
+        <a href='index.php' class='btn btn-danger'>&#8592; All Products</a>
         <input type='submit' value='Save Changes' class='btn btn-primary' />
-        <a href='index.php' class='btn btn-danger'>Back to read products</a>
       </td>
       </tr>
     </table>
