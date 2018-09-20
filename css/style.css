@@ -1,4 +1,7 @@
 /*-- test style only --*/
-h1 {
-  color: var(--green);
+main {
+  margin-top: 1rem;
+}
+nav {
+  font-size: 145%;
 }
