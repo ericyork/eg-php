@@ -1,0 +1,4 @@
+/*-- test style only --*/
+h1 {
+  color: var(--green);
+}
